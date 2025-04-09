@@ -45,8 +45,8 @@ Completed the web full-stack developer training program  ```(01/2024 ~ 07/2024)`
 <!-- <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=eic2021> -->
 <br><br>
 <!-- Hit -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-<br><br><br><br>
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<br><br><br><br> -->
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB3BA,10:FF677D,30:D9BF77,75:FFAAE0,100:B9FBC0&height=40&section=footer&text=&fontSize=0" width="100%"/>
